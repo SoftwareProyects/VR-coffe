@@ -1,0 +1,173 @@
+# Blender MTL File: 'TOSTADORA 1.blend'
+# Material Count: 16
+
+newmtl Mat_Alum
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Aluminio 4.jpg
+
+newmtl Mat_Rojjo_Liso
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.159612 0.161270 0.166303
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Negro 1.jpg
+
+newmtl Mat_Rojjo_Liso_Aluminio_4.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.159612 0.161270 0.166303
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Aluminio 4.jpg
+
+newmtl Mat_Rojjo_Liso_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.159612 0.161270 0.166303
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mat_Rojjo_Liso_Rojo_Liso.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.159612 0.161270 0.166303
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Rojo Liso.jpg
+
+newmtl Mat_RojoL
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Aluminio 4.jpg
+
+newmtl Mat_RojoL_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mat_RojoL_Regilla_1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Regilla 1.jpg
+
+newmtl Mat_RojoL_Rojo_Liso.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Rojo Liso.jpg
+
+newmtl Mat_madera
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Aluminio 1.jpg
+
+newmtl Mat_madera_Madera_1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Madera 1.jpg
+
+newmtl MaterialNegro
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Negro 1.jpg
+
+newmtl MaterialNegro.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Negro 1.jpg
+
+newmtl NegroMate
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.143088 0.143088 0.143088
+Ks 0.192169 0.192169 0.192169
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Negro 1.jpg
+
+newmtl Negro_m
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Juan David Espitia\Desktop\Ing. Software III\Proyecto Final\Maquinas blender\Texturas\Negro Metal 2.jpg
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
